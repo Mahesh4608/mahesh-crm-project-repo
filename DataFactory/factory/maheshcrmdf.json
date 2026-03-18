@@ -1,0 +1,9 @@
+{
+	"name": "maheshcrmdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39f96641-1cf2-4755-adc0-31d0da9f63b3",
+		"tenantId": "20454e9c-eca2-49d4-8c7e-a728ee45fdc3"
+	}
+}

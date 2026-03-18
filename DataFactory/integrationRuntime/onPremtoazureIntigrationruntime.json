@@ -1,0 +1,6 @@
+{
+	"name": "onPremtoazureIntigrationruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
