@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "maheshcrmdf"
+		},
+		"AzureDataLakeStorage_ls_accountKey": {
+			"value": ""
+		},
+		"FileLoaction_ls_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_ls_properties_typeProperties_url": {
+			"value": "https://maheshcrmst.dfs.core.windows.net/"
+		},
+		"FileLoaction_ls_properties_typeProperties_host": {
+			"value": "C:\\project\\CRM_PROJECT"
+		},
+		"FileLoaction_ls_properties_typeProperties_userId": {
+			"value": "MAHESH RATHOD"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
